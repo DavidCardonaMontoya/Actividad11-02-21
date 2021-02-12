@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TALLER_PRACTICO_11.02.21:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TALLER_PRACTICO_11_02_21_jar</output-path>
+    <root id="archive" name="TALLER_PRACTICO_11.02.21.jar">
+      <element id="module-output" name="TALLER_PRACTICO_11.02.21" />
+    </root>
+  </artifact>
+</component>
